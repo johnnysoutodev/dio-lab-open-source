@@ -1,5 +1,6 @@
-# Hello there!
-#  I'm Johnny Souto!
+#  Sou o Johnny Souto.
+
+Já atuei em alguns projetos, abaixo segue a descrição deles com as tecnologias utilizadas:
 
 ## Ferramentas
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
