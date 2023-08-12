@@ -8,5 +8,4 @@ Já atuei em alguns projetos, abaixo segue a descrição deles com as tecnologia
 
 Repositório desenvolvido para fins didáticos, com o intuito de demonstrar os projetos que já participei em minha carreira.
 <br>
-<br>
 **Projetos que já participei** por [Johnny Souto | Projetos](https://github.com/johnnysoutodev/dio-lab-open-source/blob/feat/community/johnnysoutodev/community/johnnysoutodev.md).
